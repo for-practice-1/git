@@ -1,3 +1,3 @@
 # 1 + 2
 
-git github
+git github 1 2
